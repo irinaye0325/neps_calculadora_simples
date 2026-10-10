@@ -3,16 +3,15 @@
 Este projeto consiste em uma calculadora desenvolvida na linguagem C, executada pelo terminal. O programa permite realizar operações matemáticas básicas de forma simples e interativa.
 O objetivo é praticar conceitos fundamentais de programação, como variáveis, entrada e saída de dados, estruturas condicionais e operações aritméticas.
 ## Demonstração
-Consulte a imagem: assets/demo.png
+Consulte a imagem: assets/demo.png (https://github.com/irinaye0325/neps_calculadora_simples/blob/main/assets/demo.png)
 ## Instalação e pré-requisitos
-Precisa de um compilador, como VsCode,
+Precisa de um compilador, como GCC,  
 em seguinte, clone o repositório e entre na pasta do projeto:  
 digite no terminal:   
-git clone https://github.com/irinaye0325/neps_calculadora_simples.git  
-e depois:   
-cd main
+git clone https://github.com/irinaye0325/neps_calculadora_simples.git
 ## Usos e exemplos
-Para iniciar o programa, clique no topo esquerdo do VsCode o botão run.  
+Para iniciar o programa, compila:  
+calculadora.exe
 Exemplo:  
 ===============================+  
    Calculadora Simples  
@@ -40,4 +39,4 @@ README.md: apresenta a documentação do projeto.
 LICENSE: especifica os termos de uso e distribuição do código.  
 assets/demo.png: captura de tela de uma execução do programa.
 ## Licença
-Este projeto está disponível sob a licença MIT. Consulte o arquivo LICENSE para obter mais informações.
+Este projeto está disponível sob a licença MIT. Consulte o arquivo LICENSE (https://github.com/irinaye0325/neps_calculadora_simples/blob/main/LICENSE) para obter mais informações.
