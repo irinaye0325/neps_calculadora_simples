@@ -18,7 +18,7 @@ gcc main.c -o neps_calculadora_simples.exe
 neps_calculadora_simples.exe  
 MacOS ou Linux:  
 gcc main.c -o neps_calculadora_simples.exe   
-./neps_calculadora_simples
+./neps_calculadora_simples  
 Exemplo:  
 ===============================+  
    Calculadora Simples  
