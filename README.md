@@ -13,8 +13,12 @@ e depois:
 cd neps_calculadora_simples
 ## Usos e exemplos
 Para iniciar o programa, compila:  
-gcc main.c -o calculadora.exe  
-calculadora.exe  
+Windows:  
+gcc main.c -o neps_calculadora_simples.exe   
+neps_calculadora_simples.exe  
+MacOS ou Linux:  
+gcc main.c -o neps_calculadora_simples.exe   
+./neps_calculadora_simples
 Exemplo:  
 ===============================+  
    Calculadora Simples  
