@@ -8,7 +8,9 @@ Consulte a imagem: [assets/demo.png](https://github.com/irinaye0325/neps_calcula
 Precisa de um compilador, como GCC,  
 em seguinte, clone o repositório e entre na pasta do projeto:  
 digite no terminal:   
-git clone https://github.com/irinaye0325/neps_calculadora_simples.git
+git clone https://github.com/irinaye0325/neps_calculadora_simples.git  
+e depois:  
+cd neps_calculadora_simples
 ## Usos e exemplos
 Para iniciar o programa, compila:  
 gcc main.c -o calculadora.exe  
@@ -29,7 +31,7 @@ Resultado: 5.000000 + 7.000000 = 12.000000
 Deseja realizar outra operação? (s/n):n  
 Obrigado por usar a calculadora! Até a próxima.
 ## Estruturas do projeto
-calculadora/  
+neps_calculadora_simples/  
 ├── assets/  
     └── demo.png  
 ├── LICENSE  
